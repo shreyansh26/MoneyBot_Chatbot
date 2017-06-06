@@ -6,6 +6,9 @@
     "start": "node webhook.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "7.10.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shreyansh26/MoneyBot_Chatbot.git"
