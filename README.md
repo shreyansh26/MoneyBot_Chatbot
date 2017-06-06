@@ -6,6 +6,6 @@ This is the code to make a webhook for my chatbot **MoneyBot**. The chatbot has 
 The Chatbot has been deployed on leading messaging platforms like-
 * Skype
 * Facebook Messenger
-* Slack  [Team Link](https://slack.com/oauth/authorize?&client_id=193291507011.192798487617&scope=bot "Slack team")
+* Slack  [Add to your Slack team](https://slack.com/oauth/authorize?&client_id=193291507011.192798487617&scope=bot "Slack team"){:target="_blank"}
 
-The web version of the chatbot can be found at [MoneyBot](https://bot.api.ai/0ba0f2ae-ab35-4cdf-a55e-54b1991c7b54 "MoneyBot")
+The web version of the chatbot can be found at [MoneyBot](https://bot.api.ai/0ba0f2ae-ab35-4cdf-a55e-54b1991c7b54 "MoneyBot"){:target="_blank"}
